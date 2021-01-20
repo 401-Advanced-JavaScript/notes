@@ -1,0 +1,26 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "npm index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-Advanced-JavaScript/notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/401-Advanced-JavaScript/notes/issues"
+  },
+  "homepage": "https://github.com/401-Advanced-JavaScript/notes#readme",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
+}
